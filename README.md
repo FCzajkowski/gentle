@@ -153,6 +153,16 @@ function calculator(a, op, b) ->
 var result = calculator(10, "*", 5)  # Returns 50
 ```
 
+## 🏃 How To Run ? 
+
+### 1) Firstly you need:
+python *(3.12 RECOMMENDED)*
+
+### 2) After Downloading:
+run in terminal:
+cd <directory_to_file>
+python run.py
+
 ## 💡 Tips and Best Practices
 
 - Use descriptive variable names for better code readability
@@ -161,8 +171,5 @@ var result = calculator(10, "*", 5)  # Returns 50
 - Use lists to group related values
 - Use indentation to improve code structure (though not required by the language)
 
-## 📝 Note
-
-This language was created for educational purposes and demonstrates fundamental programming concepts in a friendly, approachable syntax. The name "Gentle" reflects its design philosophy: to be gentle on beginners while still providing expressive power for more complex tasks.
 
 Happy coding with Gentle! 🎉
